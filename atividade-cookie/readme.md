@@ -1,1 +1,1 @@
-exercicio de php utilisando cookie
+atividade com cookie
